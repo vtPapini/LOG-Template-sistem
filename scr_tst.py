@@ -1,5 +1,5 @@
-import logging_tst as lg 
-from logging_tst import logging
+import logging_profile as lg 
+from logging_profile import logging
 
 
 ###########################
